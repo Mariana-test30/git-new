@@ -1,0 +1,8 @@
+# hide db files
+*.db
+# hide log files
+*.log
+# hide all content of target directory
+target/
+# hide all content of bin directory
+bin/
